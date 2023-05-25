@@ -4,7 +4,7 @@
 
 This is the Module 11 Challenge for the boot camp. The code has front end starter code provided by the bootcamp, all backend code has been made from scratch. The user will be able to create, save and delete notes to the note taker as well as see list of all existing notes created.
 
-Link to Deployment: https://note-taker-jo.onrender.com/
+Link to Deployment: https://note-takerjo.herokuapp.com/
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
